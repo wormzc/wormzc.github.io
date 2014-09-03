@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>worm</title><link href="/" rel="alternate"></link><link href="/feeds%5Cworm.atom.xml" rel="self"></link><id>/</id><updated>2013-11-27T00:00:00+01:00</updated><entry><title>pelican install</title><link href="/pelican-install.html" rel="alternate"></link><updated>2013-11-27T00:00:00+01:00</updated><author><name>worm</name></author><id>tag:,2013-11-27:pelican-install.html</id><summary type="html">&lt;p&gt;Hello World&lt;/p&gt;</summary><category term="pelican"></category></entry></feed>
