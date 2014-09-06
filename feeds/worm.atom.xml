@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Worm Bolg</title><link href="/" rel="alternate"></link><link href="/feeds%5Cworm.atom.xml" rel="self"></link><id>/</id><updated>2010-12-03T10:20:00+08:00</updated><entry><title>My super title</title><link href="/blogs/my-super-title.html" rel="alternate"></link><updated>2010-12-03T10:20:00+08:00</updated><author><name>worm</name></author><id>tag:,2010-12-03:blogs/my-super-title.html</id><summary type="html">&lt;p&gt;Tags: pelican, publishing
+Slug: my-super-post
+Author: Alexis Metaireau
+Summary: Short version for index and feeds&lt;/p&gt;
+&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;</summary></entry><entry><title>My super title22</title><link href="/blogs/my-super-title22.html" rel="alternate"></link><updated>2010-12-03T10:20:00+08:00</updated><author><name>worm</name></author><id>tag:,2010-12-03:blogs/my-super-title22.html</id><summary type="html">&lt;p&gt;Tags: pelican, publishing
+Slug: my-super-post2
+Author: Alexis Metaireau
+Summary: Short version for index and feeds&lt;/p&gt;
+&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;</summary></entry></feed>
