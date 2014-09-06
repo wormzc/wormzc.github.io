@@ -4,42 +4,42 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/index.html</loc>
-<lastmod>2014-09-06T21:53:20-00:00</lastmod>
+<loc>http://localhost:8000/index.html</loc>
+<lastmod>2014-09-06T22:30:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2014-09-06T21:53:20-00:00</lastmod>
+<loc>http://localhost:8000/archives.html</loc>
+<lastmod>2014-09-06T22:30:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2014-09-06T21:53:20-00:00</lastmod>
+<loc>http://localhost:8000/tags.html</loc>
+<lastmod>2014-09-06T22:30:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2014-09-06T21:53:20-00:00</lastmod>
+<loc>http://localhost:8000/categories.html</loc>
+<lastmod>2014-09-06T22:30:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/blogs/blog.html</loc>
+<loc>http://localhost:8000/blogs/blog.html</loc>
 <lastmod>2010-12-03T10:20:00:%s</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/blogs/blog2.html</loc>
+<loc>http://localhost:8000/blogs/blog2.html</loc>
 <lastmod>2010-12-03T10:20:00:%s</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
