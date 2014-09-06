@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Worm Bolg</title><link href="http://localhost:8000/" rel="alternate"></link><link href="http://localhost:8000/feeds%5Cworm.atom.xml" rel="self"></link><id>http://localhost:8000/</id><updated>2010-12-03T10:20:00+08:00</updated><entry><title>My super title</title><link href="http://localhost:8000/blogs/blog.html" rel="alternate"></link><updated>2010-12-03T10:20:00+08:00</updated><author><name>worm</name></author><id>tag:localhost:8000,2010-12-03:blogs/blog.html</id><summary type="html">&lt;p&gt;Tags: pelican, publishing
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Worm Bolg</title><link href="wormzc.github.io/" rel="alternate"></link><link href="wormzc.github.io/feeds%5Cworm.atom.xml" rel="self"></link><id>wormzc.github.io/</id><updated>2010-12-03T10:20:00+08:00</updated><entry><title>My super title</title><link href="wormzc.github.io/blogs/blog.html" rel="alternate"></link><updated>2010-12-03T10:20:00+08:00</updated><author><name>worm</name></author><id>tag:,2010-12-03:wormzc.github.io/blogs/blog.html</id><summary type="html">&lt;p&gt;Tags: pelican, publishing
 Slug: my-super-post
 Author: Alexis Metaireau
 Summary: Short version for index and feeds&lt;/p&gt;
-&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;</summary></entry><entry><title>My super title22</title><link href="http://localhost:8000/blogs/blog2.html" rel="alternate"></link><updated>2010-12-03T10:20:00+08:00</updated><author><name>worm</name></author><id>tag:localhost:8000,2010-12-03:blogs/blog2.html</id><summary type="html">&lt;p&gt;Tags: pelican, publishing
+&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;</summary></entry><entry><title>My super title22</title><link href="wormzc.github.io/blogs/blog2.html" rel="alternate"></link><updated>2010-12-03T10:20:00+08:00</updated><author><name>worm</name></author><id>tag:,2010-12-03:wormzc.github.io/blogs/blog2.html</id><summary type="html">&lt;p&gt;Tags: pelican, publishing
 Slug: my-super-post2
 Author: Alexis Metaireau
 Summary: Short version for index and feeds&lt;/p&gt;
