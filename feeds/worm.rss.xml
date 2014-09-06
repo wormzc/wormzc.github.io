@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Worm Bolg</title><link>/</link><description>Worm 个人博客</description><atom:link href="/feeds%5Cworm.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 03 Dec 2010 10:20:00 +0800</lastBuildDate><item><title>My super title</title><link>/blogs/my-super-title.html</link><description>&lt;p&gt;Tags: pelican, publishing
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Worm Bolg</title><link>/</link><description>Worm 个人博客</description><atom:link href="/feeds%5Cworm.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 03 Dec 2010 10:20:00 +0800</lastBuildDate><item><title>My super title</title><link>/blogs/blog.html</link><description>&lt;p&gt;Tags: pelican, publishing
 Slug: my-super-post
 Author: Alexis Metaireau
 Summary: Short version for index and feeds&lt;/p&gt;
-&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">worm</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0800</pubDate><guid>tag:,2010-12-03:blogs/my-super-title.html</guid></item><item><title>My super title22</title><link>/blogs/my-super-title22.html</link><description>&lt;p&gt;Tags: pelican, publishing
+&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">worm</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0800</pubDate><guid>tag:,2010-12-03:blogs/blog.html</guid></item><item><title>My super title22</title><link>/blogs/blog2.html</link><description>&lt;p&gt;Tags: pelican, publishing
 Slug: my-super-post2
 Author: Alexis Metaireau
 Summary: Short version for index and feeds&lt;/p&gt;
-&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">worm</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0800</pubDate><guid>tag:,2010-12-03:blogs/my-super-title22.html</guid></item></channel></rss>
+&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">worm</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0800</pubDate><guid>tag:,2010-12-03:blogs/blog2.html</guid></item></channel></rss>
