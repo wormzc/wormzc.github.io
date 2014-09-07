@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Worm Blog</title><link href="http://wormzc.github.io/" rel="alternate"></link><link href="http://wormzc.github.io//feeds%5Cworm.atom.xml" rel="self"></link><id>http://wormzc.github.io/</id><updated>2014-09-07T11:31:59+08:00</updated><entry><title>Plugin to show 1D signal in Icy is out!</title><link href="http://wormzc.github.io/blogs/1d-signal-chart-canvas.html" rel="alternate"></link><updated>2014-09-07T11:31:59+08:00</updated><author><name>worm</name></author><id>tag:wormzc.github.io,2014-09-07:blogs/1d-signal-chart-canvas.html</id><summary type="html">&lt;p&gt;Tags: plugin, ultrasonic
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Worm Blog</title><link>http://wormzc.github.io/</link><description></description><atom:link href="http://wormzc.github.io//feed.xml" rel="self"></atom:link><lastBuildDate>Sun, 07 Sep 2014 11:31:59 +0800</lastBuildDate><item><title>Plugin to show 1D signal in Icy is out!</title><link>http://wormzc.github.io/blogs/1d-signal-chart-canvas.html</link><description>&lt;p&gt;Tags: plugin, ultrasonic
 Slug: 1d-signal-chart-canvas
 Lang: en
 Author: worm
@@ -16,7 +16,7 @@ Here goes a screen shot of the plugin.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Chart1DCanvas screen shot" src="../images/chart1dscreen.png" /&gt;&lt;/p&gt;
 &lt;p&gt;With this plugin, Icy will show a 1d signal in native way which actually is canvas.
 We can use the canvas to show all kinds of waveforms such as eddy current and ultrasonic etc.. &lt;/p&gt;
-&lt;p&gt;See more detail about the plugins, see [Download][../pages/downloads].&lt;/p&gt;</summary></entry><entry><title>Hardware connection with Micro-Manager</title><link href="http://wormzc.github.io/blogs/micro-manager-for-icy.html" rel="alternate"></link><updated>2014-09-07T11:31:59+08:00</updated><author><name>worm</name></author><id>tag:wormzc.github.io,2014-09-07:blogs/micro-manager-for-icy.html</id><summary type="html">&lt;p&gt;Tags: plugin
+&lt;p&gt;See more detail about the plugins, see [Download][../pages/downloads].&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">worm</dc:creator><pubDate>Sun, 07 Sep 2014 11:31:59 +0800</pubDate><guid>tag:wormzc.github.io,2014-09-07:blogs/1d-signal-chart-canvas.html</guid></item><item><title>Hardware connection with Micro-Manager</title><link>http://wormzc.github.io/blogs/micro-manager-for-icy.html</link><description>&lt;p&gt;Tags: plugin
 Slug: micro-manager-for-icy
 Lang: en
 Author: worm
@@ -26,7 +26,7 @@ Summary:&lt;/p&gt;
 &lt;p&gt;For EVA project itself, we trying to include some open source hardware in order to build less-pricy research platform. We decide to use Micro-manager as a midware to bridge the hardware and the Icy software. &lt;/p&gt;
 &lt;p&gt;And another reason is, Micro-Manager is fully supported in Icy, we got "Micro-Manager for Icy" and many other plugins can work with Micro-Manager.&lt;/p&gt;
 &lt;p&gt;With Micro-Manager, all kinds of data can be represent as image. Signals in 1D can also treated as a one-row image, and the value range can be 8 bit to 64 bit, so it can represent almost every kind of signal.&lt;/p&gt;
-&lt;p&gt;We will demostrate this framework with a ultrasonic imaging device.&lt;/p&gt;</summary></entry><entry><title>1D signal presentation in Icy</title><link href="http://wormzc.github.io/1d-signal-presentation-en.html" rel="alternate"></link><updated>2013-06-30T21:30:00+08:00</updated><author><name>worm</name></author><id>tag:wormzc.github.io,2013-06-30:1d-signal-presentation-en.html</id><summary type="html">&lt;h2 id="motivation"&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;We will demostrate this framework with a ultrasonic imaging device.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">worm</dc:creator><pubDate>Sun, 07 Sep 2014 11:31:59 +0800</pubDate><guid>tag:wormzc.github.io,2014-09-07:blogs/micro-manager-for-icy.html</guid></item><item><title>1D signal presentation in Icy</title><link>http://wormzc.github.io/1d-signal-presentation-en.html</link><description>&lt;h2 id="motivation"&gt;Motivation&lt;/h2&gt;
 &lt;p&gt;Icy is designed for 2D+ image data processing, but in NDE, we often get 1D signal like ultrasonic waveform. The following picture shows a sample of typical ultrasonic waveform.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="ultrasonic waveform" src="../images/ultrasonicWave.JPG" /&gt;&lt;/p&gt;
 &lt;h2 id="solution"&gt;Solution&lt;/h2&gt;
@@ -37,4 +37,4 @@ The following picture shows the screen shot of using intensity profile to show a
 1. Input "IntensityProfile" in the search bar of Icy, it located in the upper left of the main window. When it appears in the search result, just click to install.
 2. Open you image, we can store a waveform as a row of pixels, which also means one pixels is one sample value from your data acquisition device. Don't care much about the data range, Icy supports 32-bit gray image, which will be enough for most ADC device.
 3. Then put a line ROI on the image, adjust it to the right position, you can press shift key to make it orthogonal.
-4. Click "IntensityProfile" in the menu bar. And you will see a cure displayed in a chart window. You can zoom in and out, the chart is handled by a java chart library known as "JfreeChart".&lt;/p&gt;</summary><category term="plugin"></category><category term="ultrasonic"></category></entry></feed>
+4. Click "IntensityProfile" in the menu bar. And you will see a cure displayed in a chart window. You can zoom in and out, the chart is handled by a java chart library known as "JfreeChart".&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">worm</dc:creator><pubDate>Sun, 30 Jun 2013 21:30:00 +0800</pubDate><guid>tag:wormzc.github.io,2013-06-30:1d-signal-presentation-en.html</guid><category>plugin</category><category>ultrasonic</category></item></channel></rss>
