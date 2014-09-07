@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Worm Blog</title><link href="http://wormzc.github.io/" rel="alternate"></link><link href="http://wormzc.github.io//feeds%5Cworm.atom.xml" rel="self"></link><id>http://wormzc.github.io/</id><updated>2014-09-07T11:31:59+08:00</updated><entry><title>Plugin to show 1D signal in Icy is out!</title><link href="http://wormzc.github.io/blogs/1d-signal-chart-canvas.html" rel="alternate"></link><updated>2014-09-07T11:31:59+08:00</updated><author><name>worm</name></author><id>tag:wormzc.github.io,2014-09-07:blogs/1d-signal-chart-canvas.html</id><summary type="html">&lt;p&gt;Tags: plugin, ultrasonic
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Worm 小站</title><link href="http://wormzc.github.io/" rel="alternate"></link><link href="http://wormzc.github.io//feeds%5Cworm.atom.xml" rel="self"></link><id>http://wormzc.github.io/</id><updated>2014-09-07T11:31:59+08:00</updated><entry><title>Plugin to show 1D signal in Icy is out!</title><link href="http://wormzc.github.io/plugin-to-show-1d-signal-in-icy-is-out" rel="alternate"></link><updated>2014-09-07T11:31:59+08:00</updated><author><name>worm</name></author><id>tag:wormzc.github.io,2014-09-07:plugin-to-show-1d-signal-in-icy-is-out</id><summary type="html">&lt;p&gt;Tags: plugin, ultrasonic
 Slug: 1d-signal-chart-canvas
 Lang: en
 Author: worm
@@ -16,7 +16,7 @@ Here goes a screen shot of the plugin.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Chart1DCanvas screen shot" src="../images/chart1dscreen.png" /&gt;&lt;/p&gt;
 &lt;p&gt;With this plugin, Icy will show a 1d signal in native way which actually is canvas.
 We can use the canvas to show all kinds of waveforms such as eddy current and ultrasonic etc.. &lt;/p&gt;
-&lt;p&gt;See more detail about the plugins, see [Download][../pages/downloads].&lt;/p&gt;</summary></entry><entry><title>Hardware connection with Micro-Manager</title><link href="http://wormzc.github.io/blogs/micro-manager-for-icy.html" rel="alternate"></link><updated>2014-09-07T11:31:59+08:00</updated><author><name>worm</name></author><id>tag:wormzc.github.io,2014-09-07:blogs/micro-manager-for-icy.html</id><summary type="html">&lt;p&gt;Tags: plugin
+&lt;p&gt;See more detail about the plugins, see [Download][../pages/downloads].&lt;/p&gt;</summary></entry><entry><title>Hardware connection with Micro-Manager</title><link href="http://wormzc.github.io/hardware-connection-with-micro-manager" rel="alternate"></link><updated>2014-09-07T11:31:59+08:00</updated><author><name>worm</name></author><id>tag:wormzc.github.io,2014-09-07:hardware-connection-with-micro-manager</id><summary type="html">&lt;p&gt;Tags: plugin
 Slug: micro-manager-for-icy
 Lang: en
 Author: worm
