@@ -5,42 +5,49 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/index.html</loc>
-<lastmod>2014-09-06T22:50:03-00:00</lastmod>
+<lastmod>2014-09-07T11:34:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2014-09-06T22:50:03-00:00</lastmod>
+<lastmod>2014-09-07T11:34:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2014-09-06T22:50:03-00:00</lastmod>
+<lastmod>2014-09-07T11:34:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2014-09-06T22:50:03-00:00</lastmod>
+<lastmod>2014-09-07T11:34:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/blogs/blog.html</loc>
-<lastmod>2010-12-03T10:20:00:%s</lastmod>
+<loc>/blogs/1d-signal-chart-canvas.html</loc>
+<lastmod>2014-09-07T11:31:59:%s</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/blogs/blog2.html</loc>
-<lastmod>2010-12-03T10:20:00:%s</lastmod>
+<loc>/blogs/micro-manager-for-icy.html</loc>
+<lastmod>2014-09-07T11:31:59:%s</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/1d-signal-presentation-en.html</loc>
+<lastmod>2013-06-30T21:30:00:%s</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
