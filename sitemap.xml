@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://wormzc.github.io/index.html</loc>
-<lastmod>2014-09-07T12:49:55-00:00</lastmod>
+<lastmod>2014-09-07T17:17:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://wormzc.github.io/archives.html</loc>
-<lastmod>2014-09-07T12:49:55-00:00</lastmod>
+<lastmod>2014-09-07T17:17:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://wormzc.github.io/tags.html</loc>
-<lastmod>2014-09-07T12:49:55-00:00</lastmod>
+<lastmod>2014-09-07T17:17:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://wormzc.github.io/categories.html</loc>
-<lastmod>2014-09-07T12:49:55-00:00</lastmod>
+<lastmod>2014-09-07T17:17:20-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://wormzc.github.io/blogs/1d-signal-presentation-in-icy.html</loc>
+<lastmod>2014-09-07T11:31:59:%s</lastmod>
+<changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -41,13 +48,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://wormzc.github.io/blogs/hardware-connection-with-micro-manager.html</loc>
 <lastmod>2014-09-07T11:31:59:%s</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://wormzc.github.io/1d-signal-presentation-en.html</loc>
-<lastmod>2013-06-30T21:30:00:%s</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
