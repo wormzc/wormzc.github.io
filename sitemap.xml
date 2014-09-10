@@ -5,49 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://wormzc.github.io/index.html</loc>
-<lastmod>2014-09-10T16:14:05-00:00</lastmod>
+<lastmod>2014-09-10T20:21:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://wormzc.github.io/archives.html</loc>
-<lastmod>2014-09-10T16:14:05-00:00</lastmod>
+<lastmod>2014-09-10T20:21:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://wormzc.github.io/tags.html</loc>
-<lastmod>2014-09-10T16:14:05-00:00</lastmod>
+<lastmod>2014-09-10T20:21:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://wormzc.github.io/categories.html</loc>
-<lastmod>2014-09-10T16:14:05-00:00</lastmod>
+<lastmod>2014-09-10T20:21:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://wormzc.github.io/blogs/1d-signal-presentation-in-icy.html</loc>
-<lastmod>2014-09-07T11:31:59:%s</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://wormzc.github.io/blogs/plugin-to-show-1d-signal-in-icy-is-out.html</loc>
-<lastmod>2014-09-07T11:31:59:%s</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://wormzc.github.io/blogs/hardware-connection-with-micro-manager.html</loc>
-<lastmod>2014-09-07T11:31:59:%s</lastmod>
+<loc>http://wormzc.github.io/pages/2014/09/10/MBN.html</loc>
+<lastmod>2014-09-10T20:05:56:%s</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
