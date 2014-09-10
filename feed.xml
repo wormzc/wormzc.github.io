@@ -28,7 +28,7 @@ Here goes a screen shot of the plugin.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Chart1DCanvas screen shot" src="../images/chart1dscreen.png"/&gt;&lt;/p&gt;
 &lt;p&gt;With this plugin, Icy will show a 1d signal in native way which actually is canvas.
 We can use the canvas to show all kinds of waveforms such as eddy current and ultrasonic etc.. &lt;/p&gt;
-&lt;p&gt;See more detail about the plugins, see [Download][../pages/downloads].&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">worm</dc:creator><pubDate>Sun, 07 Sep 2014 11:31:59 +0800</pubDate><guid>tag:wormzc.github.io,2014-09-07:blogs/plugin-to-show-1d-signal-in-icy-is-out.html</guid><category>plugin</category><category>ultrasonic</category></item><item><title>Hardware connection with Micro-Manager</title><link>http://wormzc.github.io/blogs/hardware-connection-with-micro-manager.html</link><description>&lt;p&gt;Tags: plugin
+&lt;p&gt;See more detail about the plugins, see [Download][../pages/downloads].&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">worm</dc:creator><pubDate>Sun, 07 Sep 2014 11:31:59 +0800</pubDate><guid>tag:wormzc.github.io,2014-09-07:blogs/plugin-to-show-1d-signal-in-icy-is-out.html</guid><category>插件</category><category>超声</category></item><item><title>Hardware connection with Micro-Manager</title><link>http://wormzc.github.io/blogs/hardware-connection-with-micro-manager.html</link><description>&lt;p&gt;Tags: plugin
 Slug: micro-manager-for-icy
 Lang: en
 Author: worm&lt;/p&gt;
