@@ -4,35 +4,35 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://wormzc.github.io/index.html</loc>
-<lastmod>2014-09-11T11:00:15-00:00</lastmod>
+<loc>http://www.wormzc.org/index.html</loc>
+<lastmod>2014-09-11T11:11:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://wormzc.github.io/archives.html</loc>
-<lastmod>2014-09-11T11:00:15-00:00</lastmod>
+<loc>http://www.wormzc.org/archives.html</loc>
+<lastmod>2014-09-11T11:11:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://wormzc.github.io/tags.html</loc>
-<lastmod>2014-09-11T11:00:15-00:00</lastmod>
+<loc>http://www.wormzc.org/tags.html</loc>
+<lastmod>2014-09-11T11:11:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://wormzc.github.io/categories.html</loc>
-<lastmod>2014-09-11T11:00:15-00:00</lastmod>
+<loc>http://www.wormzc.org/categories.html</loc>
+<lastmod>2014-09-11T11:11:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://wormzc.github.io/pages/2014/09/10/MBN.html</loc>
+<loc>http://www.wormzc.org/pages/2014/09/10/MBN.html</loc>
 <lastmod>2014-09-10T21:30:00:%s</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
